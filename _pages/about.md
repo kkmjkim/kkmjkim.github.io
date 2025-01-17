@@ -6,7 +6,7 @@ subtitle: 김민진
 
 profile:
   align: right
-  image: minjinkim_pic.jpg
+  image: minjinkim_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>minjin.kim@yonsei.ac.kr</p>
